@@ -9,5 +9,3 @@ signUpButton.addEventListener('click', () => {
 signInButton.addEventListener('click', () => {
   container.classList.remove('right-panel-active');
 });
-
-// Handle form submissions, validation, and any other functionality here
